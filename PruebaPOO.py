@@ -22,7 +22,7 @@ Realiza el envío del código fuente por medio de la intranet, y adicionalmente,
 from datetime import *
 from itertools import count
 
-print("Bienvenido, Por favor Registrese A")
+print("Bienvenido, Por favor Registrese ")
 nombre= input("Ingrese su nombre y apellido: ")
 telefono = int(input("Ingrese su numero de telefono: "))
 correo = input("Ingrese su correo electronico: ")
